@@ -16,7 +16,7 @@ The player must repeat an ever-growing sequence of colors. Each round gets harde
 ## 🛠️ Technologies Used
 - **HTML5** – Structure of the game
 - **CSS3** – Styling and animations
-- **JavaScript ** – Game logic, DOM manipulation, event handling
+- **JavaScript** – Game logic, DOM manipulation, event handling
 
 ---
 
