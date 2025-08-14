@@ -30,7 +30,7 @@ The player must repeat an ever-growing sequence of colors. Each round gets harde
 ---
 
 ## 📌 Live Demo
-[Click Here to Play](https://your-github-username.github.io/simons-game/)
+[Click Here to Play]( https://vaishnavikeshari.github.io/Simons-Game/)
 
 ---
 
